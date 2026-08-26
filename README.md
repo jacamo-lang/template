@@ -5,3 +5,9 @@ You can open this initial JaCaMo project as a template using the above button "U
 ````
 ./jacamo main.jcm
 ````
+
+or 
+
+````
+./gradlew
+````
