@@ -5,6 +5,3 @@ You can open this initial JaCaMo project as a template using the above button "U
 ````
 ./gradlew run
 ````
-
-You can also use [GitPod](https://gitpod.io/#https://github.com/jacamo-lang/template).
-
